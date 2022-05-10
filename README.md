@@ -1,2 +1,2 @@
 # React-Project-Course
-React Project Course Work 
+React Tutorial and Project Course Work from John Smilga's Course
